@@ -1,0 +1,75 @@
+{
+  "marcas": [
+    {
+      "id": "1",
+      "nome": "Apple"
+    },
+    {
+      "id": "c54b",
+      "nome": "Nvidia"
+    },
+    {
+      "id": "7bc0",
+      "nome": "Razer"
+    },
+    {
+      "id": "76bc",
+      "nome": "Intel"
+    },
+    {
+      "id": "72ec",
+      "nome": "Razer"
+    },
+    {
+      "id": "2e6e",
+      "nome": "Intel"
+    },
+    {
+      "id": "41d6",
+      "nome": "Razer"
+    },
+    {
+      "id": "dc03",
+      "nome": "Intel"
+    },
+    {
+      "nome": "Razer",
+      "id": "2991"
+    },
+    {
+      "id": "98d7",
+      "nome": "Intel"
+    },
+    {
+      "id": "0c8e",
+      "nome": "Razer"
+    }
+  ],
+  "filmes": [
+    {
+      "id": "1",
+      "nome": "Avanger",
+      "duracao": 180,
+      "classificacao": 5
+    },
+    {
+      "id": "3e1e",
+      "nome": "Rock Dog"
+    },
+    {
+      "id": "f151",
+      "nome": "Rock Dog"
+    },
+    {
+      "id": "7ac3",
+      "nome": "Rock Dog"
+    }
+  ],
+  "estados": [
+    {
+      "id": "1",
+      "nome": "Santa Catarina",
+      "Sigla": "SC"
+    }
+  ]
+}

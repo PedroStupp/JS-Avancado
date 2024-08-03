@@ -59,7 +59,7 @@ function listarFilmes() {
         console.log("Filme:" + filme.nome, "\n\Duração:" + "\n\Atores:")
         for (let i = 0; i < filme.atores.length; i++) {
             let ator = filme.atores[i];
-            console.log("Atores:" + ator.ator)
+        
         }
     }
 }
