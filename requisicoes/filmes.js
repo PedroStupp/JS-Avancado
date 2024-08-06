@@ -83,17 +83,17 @@ async function apagarPorNome(nome) {
         console.log(`Não encontrada filme com o nome ${nome}`);
         return;
     }
-    apagarPorId(marca.id);
+    apagarPorId(filme.id);
 
 }
 
 async function apresentarTodos() {
-    let marcas = await obterTodos ();
-    console.log("Marcas");
+    let filmes = await obterTodos ();
+    console.log("Filmes");
 
-    for (let index = 0; index < marcas.length; index++) {
-        const marca = marcas [index];
-        console.log (`Id: ${marca.id} Nome: ${marca.nome}`)
+    for (let index = 0; index < filmes.length; index++) {
+        const filme = filmes [index];
+        console.log (`Id: ${filme.id} Nome: ${filme.nome}`)
     }
 }
 
